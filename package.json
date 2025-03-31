@@ -1,0 +1,20 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "\"Implementação do site tabnews\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Viniciusgalmeida/clone-tabnews\""
+  },
+  "author": "Vinicius",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
